@@ -19,7 +19,10 @@ https://replit.com/@srirambehera035/Number-Guessing-Game
   - enter -> lo
   - then enter -> javac NumberGuessingGame.java
   - then -> java NumberGuessingGame
-  - Enjoy the Game.   
+  - Enjoy the Game.
+## 🎥 Gameplay Demo
+
+![Number Guessing Game Demo](NumberGuessing.gif)
 
 ## ✨ Features
 - 🎲 Random number generation between 1 and 100
