@@ -16,8 +16,7 @@ https://replit.com/@srirambehera035/Number-Guessing-Game
 
 - Steps
   After entering into the Replit:
-  - enter -> lo
-  - then enter -> javac NumberGuessingGame.java
+  - enter -> javac NumberGuessingGame.java
   - then -> java NumberGuessingGame
   - Enjoy the Game.
 ## 🎥 Gameplay Demo
